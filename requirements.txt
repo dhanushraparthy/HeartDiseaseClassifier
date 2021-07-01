@@ -1,0 +1,4 @@
+Flask==1.0.2
+requests==2.21.0
+xgboost==0.81
+scikit_learn==0.20.3
